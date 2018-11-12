@@ -1,2 +1,2 @@
 # QuizGameTXT
-In file.txt is in an example
+In file.txt it's an example
