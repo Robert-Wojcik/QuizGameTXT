@@ -1,0 +1,11 @@
+C:\Users\rw132\source\repos\GameQuizWithFileTXT\GameQuizWithFileTXT\bin\Debug\netcoreapp2.1\GameQuizWithFileTXT.deps.json
+C:\Users\rw132\source\repos\GameQuizWithFileTXT\GameQuizWithFileTXT\bin\Debug\netcoreapp2.1\GameQuizWithFileTXT.runtimeconfig.json
+C:\Users\rw132\source\repos\GameQuizWithFileTXT\GameQuizWithFileTXT\bin\Debug\netcoreapp2.1\GameQuizWithFileTXT.runtimeconfig.dev.json
+C:\Users\rw132\source\repos\GameQuizWithFileTXT\GameQuizWithFileTXT\bin\Debug\netcoreapp2.1\GameQuizWithFileTXT.dll
+C:\Users\rw132\source\repos\GameQuizWithFileTXT\GameQuizWithFileTXT\bin\Debug\netcoreapp2.1\GameQuizWithFileTXT.pdb
+C:\Users\rw132\source\repos\GameQuizWithFileTXT\GameQuizWithFileTXT\obj\Debug\netcoreapp2.1\GameQuizWithFileTXT.csprojAssemblyReference.cache
+C:\Users\rw132\source\repos\GameQuizWithFileTXT\GameQuizWithFileTXT\obj\Debug\netcoreapp2.1\GameQuizWithFileTXT.csproj.CoreCompileInputs.cache
+C:\Users\rw132\source\repos\GameQuizWithFileTXT\GameQuizWithFileTXT\obj\Debug\netcoreapp2.1\GameQuizWithFileTXT.AssemblyInfoInputs.cache
+C:\Users\rw132\source\repos\GameQuizWithFileTXT\GameQuizWithFileTXT\obj\Debug\netcoreapp2.1\GameQuizWithFileTXT.AssemblyInfo.cs
+C:\Users\rw132\source\repos\GameQuizWithFileTXT\GameQuizWithFileTXT\obj\Debug\netcoreapp2.1\GameQuizWithFileTXT.dll
+C:\Users\rw132\source\repos\GameQuizWithFileTXT\GameQuizWithFileTXT\obj\Debug\netcoreapp2.1\GameQuizWithFileTXT.pdb
